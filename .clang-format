@@ -4,8 +4,8 @@ AlignAfterOpenBracket: DontAlign
 BinPackArguments: true
 BinPackParameters: true
 BreakBeforeBraces: Mozilla
-IndentWidth: 2
-ContinuationIndentWidth: 2
+IndentWidth: 4
+ContinuationIndentWidth: 4
 AllowAllParametersOfDeclarationOnNextLine: false
 AllowAllArgumentsOnNextLine: false
 AllowShortBlocksOnASingleLine: 'Never'
