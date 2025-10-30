@@ -1,14 +1,15 @@
 <img style="width:100%;" src="/banner.png">
 
-[![Build Pipeline](https://github.com/likle/cwalk/actions/workflows/build-linux.yml/badge.svg)](https://github.com/likle/cwalk/actions/workflows/build-linux.yml)
+<!--[![Build Pipeline](https://github.com/likle/cwalk/actions/workflows/build-linux.yml/badge.svg)](https://github.com/likle/cwalk/actions/workflows/build-linux.yml)
 [![Build Pipeline](https://github.com/likle/cwalk/actions/workflows/build-freebsd.yml/badge.svg)](https://github.com/likle/cwalk/actions/workflows/build-freebsd.yml)
 [![Build Pipeline](https://github.com/likle/cwalk/actions/workflows/build-macos.yml/badge.svg)](https://github.com/likle/cwalk/actions/workflows/build-macos.yml)
 [![Build Pipeline](https://github.com/likle/cwalk/actions/workflows/build-win.yml/badge.svg)](https://github.com/likle/cwalk/actions/workflows/build-win.yml)
-[![codecov](https://img.shields.io/codecov/c/github/likle/cwalk/master.svg?label=Coverage)](https://codecov.io/gh/likle/cwalk)
+[![codecov](https://img.shields.io/codecov/c/github/likle/cwalk/master.svg?label=Coverage)](https://codecov.io/gh/likle/cwalk)-->
 
 # libcwalk - path library for C/C++
-This is a lighweight C path manipulation library. It supports UNIX and Windows
+This is a fork of the lighweight C [path manipulation](https://github.com/likle/cwalk) library. It supports UNIX and Windows
 path styles on all platforms.
+The main difference is the header only library style of this version
 
 ## Features
 Please have a look at the
@@ -24,11 +25,11 @@ information. Some features this library includes:
  * **iterate segments** of the path
  * **and more** things...
 
- ## Building
+ <!--## Building
  **[Building](https://likle.github.io/cwalk/build.html)**,
  **[embedding](https://likle.github.io/cwalk/embed.html)** and
  **[testing](https://likle.github.io/cwalk/build.html)** instructions are
- available in the documentation (it's very easy).
+ available in the documentation (it's very easy).-->
 
  ## Docs
  All the documentation is available in the
