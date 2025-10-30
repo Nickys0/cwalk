@@ -1,10 +1,9 @@
 /**
+ *
  *  To include the definitions of the function use
- *  #define CWALK_IMPLEMENTATION
- *  in one file
+ *  #define CWALK_IMPLEMENTATION in one file
  *
  **/
-
 #ifndef CWK_LIBRARY_H
 #define CWK_LIBRARY_H
 

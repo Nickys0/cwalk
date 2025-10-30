@@ -1,3 +1,4 @@
+#pragma clang diagnostic ignored "-Wunterminated-macro"
 #include "tests.h"
 #include <memory.h>
 #include <stdio.h>

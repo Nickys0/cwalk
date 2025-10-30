@@ -7,8 +7,7 @@
 [![codecov](https://img.shields.io/codecov/c/github/likle/cwalk/master.svg?label=Coverage)](https://codecov.io/gh/likle/cwalk)
 
 # libcwalk - path library for C/C++
-This is a lighweight C path manipulation library. It is currently compiled and
-tested under **Linux**, **FreeBSD**, **Windows** and **MacOS**. It supports UNIX and Windows
+This is a lighweight C path manipulation library. It supports UNIX and Windows
 path styles on all platforms.
 
 ## Features

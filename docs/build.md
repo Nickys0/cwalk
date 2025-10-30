@@ -8,7 +8,7 @@ In order to build the source, you will have to download it. You can do so using 
 git clone -b stable git@github.com:likle/cwalk.git
 ```
 
-**Note**: The *stable* branch points to the latest stable version. You should 
+**Note**: The *stable* branch points to the latest stable version. You should
 always use a stable version in production code.
 
 ## Using Windows
