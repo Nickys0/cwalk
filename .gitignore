@@ -3,9 +3,7 @@ test/tests.h
 .idea
 cmake-build-debug
 cmake-build-release
-build
-build.win
-builddir
+.build
 .vs
 .vscode
 docs/_site

@@ -1,3 +1,7 @@
+/**
+ *  This will be used in the future to test the functions
+ */
+
 #include <errno.h>
 #define NOB_IMPLEMENTATION
 #define NOB_WARN_DEPRECATED
@@ -215,7 +219,6 @@ const Unit_Test test_files[] = {
     { .type = "windows", .name = "root_backslash" },
     { .type = "windows", .name = "root_empty" },
 };
-
 
 Nob_Cmd cmd  = {0};
 
